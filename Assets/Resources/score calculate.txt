@@ -1,0 +1,9 @@
+each bullet hit = 15 v
+enemy health hit 0 = 80  v
+each enemy bullet destroyed = 14 v
+every heart left = 170 v
+every bomb left = 170 v
+item eat = 35 v
+time = (score /play time)
+
+https://www.dafont.com/timotheos.font?text=Versus+Sketches
